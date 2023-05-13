@@ -109,3 +109,30 @@ const conta = ['Hola','mi nombre','es','Jose'];
 console.log(conta); 
 
 //10.Crea un programa que solicite al usuario un día de la semana (ej: lunes, jueves,domingo, etc).
+
+var dia =1;
+if (dia == 1) {
+    console.log('Lunes');
+} else  { 
+    console.log('martes');
+}
+
+//11 Solicitar al usuario una calificación (entre 1 y 10). Luego se debe comprobar que el número efectivamente esté en ese rango, 
+
+let aprobados=0;
+let desaprobados=0;
+let nota1= 10;
+if(nota1<=6)
+console.log("reprobado");
+else 
+if (nota1>=6 && nota1<=8) 
+console.log("bien");
+if (nota1=9) 
+console.log("bien");
+if (nota1=10) 
+console.log("excelente");
+else {
+console.log("desaprobados");
+}
+console.log("Su nota es  "+" "+nota1) ;
+
