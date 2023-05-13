@@ -91,3 +91,10 @@ let numero1 = parseInt(prompt("Ingrese un numero por favor:"));
 
       }
   
+
+
+//8.Crea un programa que solicite al usuario números, si lo que este introduce es un número, guardarlo en un arreglo. Para terminar de preguntar al usuario debe ingresar el número 0. Finalmente mostrar la lista de números capturados enpantalla o en la consola.
+
+
+
+
