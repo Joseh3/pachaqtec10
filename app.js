@@ -95,6 +95,17 @@ let numero1 = parseInt(prompt("Ingrese un numero por favor:"));
 
 //8.Crea un programa que solicite al usuario números, si lo que este introduce es un número, guardarlo en un arreglo. Para terminar de preguntar al usuario debe ingresar el número 0. Finalmente mostrar la lista de números capturados enpantalla o en la consola.
 
+const arr = ['2','5','9','33'];
+
+arr.push('10');
+
+console.log(arr); 
+
+//9.Crea un programa que solicite al usuario letras o palabras, si es así guardar el resultado. Para terminar de preguntar al usuario no debe escribir valor alguno. Al terminar de capturar, mostrar en pantalla la concatenación de todas las palabras capturadas.
+
+const conta = ['Hola','mi nombre','es','Jose'];
 
 
+console.log(conta); 
 
+//10.Crea un programa que solicite al usuario un día de la semana (ej: lunes, jueves,domingo, etc).
